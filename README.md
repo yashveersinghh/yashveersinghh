@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yashveer Singh</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Employee Management System**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **React, Tailwind**
 
-- 📫 How to reach me **yashveersingh1921@gmail.com**
+- 📫 How to reach me **singhyashveer.work@gmail.com**
 
 - ⚡ Fun fact **Winter is coming❄️**
 
