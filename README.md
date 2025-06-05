@@ -5,9 +5,8 @@
 
 - 🌱 I’m currently learning **React, Tailwind**
 
-- 📫 How to reach me **singhyashveer.work@gmail.com**
-
-- ⚡ Fun fact **Winter is coming❄️**
+- 📫 How to reach me **yashveersinghh.work@gmail.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
