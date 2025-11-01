@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **React, Tailwind**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **yashveersinghh.work@gmail.com**
 
