@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **yashveersingh1921@gmail.com**
 
-- ⚡ Fun fact **Winter is coming❄️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
