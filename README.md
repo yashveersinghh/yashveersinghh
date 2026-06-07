@@ -7,7 +7,7 @@
 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,react,ts,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,mongodb,postgres,prisma,cloudflare" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,docker" />
 </p>
